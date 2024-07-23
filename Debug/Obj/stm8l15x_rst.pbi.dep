@@ -1,0 +1,34 @@
+stm8l15x_rst.pbi: \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\src\stm8l15x_rst.c \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_rst.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc/stm8l15x.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\stm8l15x_conf.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_adc.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_aes.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_beep.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_clk.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_comp.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_dac.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_dma.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_exti.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_flash.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_gpio.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_i2c.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_irtim.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_itc.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_iwdg.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_lcd.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_pwr.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_rtc.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_spi.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_syscfg.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_tim1.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_tim2.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_tim3.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_tim4.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_tim5.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_usart.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc/stm8l15x_clk.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_wfe.h \
+  E:\IAR_PROJECT\Bootloader_stm8l151\STM8L15x_StdPeriph_Driver\inc\stm8l15x_wwdg.h
